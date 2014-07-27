@@ -67,8 +67,8 @@ populationImpact
 
 ## Are you interested?
 
-- visit us on shinyapps.io [(bit.ly/1kLwP06)](http://bit.ly/1kLwP06)
-- fork on GitHub ([bit.ly/1nrtceI](http://bit.ly/1nrtceI))
+- visit us on shinyapps.io [(http://nvthuyne.shinyapps.io/DevDataProds/)](http://nvthuyne.shinyapps.io/DevDataProds/)
+- fork on GitHub ([https://github.com/nvthuyne/DevDataProds](https://github.com/nvthuyne/DevDataProds))
 -  enroll on [Coursera Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) and learn how to build your own
 
 
